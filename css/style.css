@@ -34,3 +34,7 @@
 .u{
     font-style: italic;
 }
+.iu{
+    font-style: italic;
+    text-decoration: 2px black underline;
+}
